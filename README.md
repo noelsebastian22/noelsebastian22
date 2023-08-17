@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on angular and react projets ...
 - 📫 please reach me at noelsimc69@gmail.com ...
 
-### :fire: My Stats :
 
 <!---
 noelsebastian22/noelsebastian22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
