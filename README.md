@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Noel Sebastian
-- 👀 I’m Web development and problem solving ...
-- 🌱 I’m web designing and development using multiple frameworks ...
-- 💞️ I’m looking to collaborate on angular and react projets ...
-- 📫 please reach me at noelsimc69@gmail.com ...
+- 👋 Hi, I'm Noel Sebastian, a passionate web developer with a knack for problem-solving.
+- 🌱 I specialize in web development, leveraging multiple frameworks to create dynamic and user-friendly interfaces.
+- 💼 Currently, I'm actively involved in Angular and React projects and always open to exciting collaborations in these domains.
+
+- 📫 Feel free to reach out to me at noelsimc69@gmail.com..
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=noelsebastian22&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noelsebastian22&langs_count=5&theme=tokyonight)]()
